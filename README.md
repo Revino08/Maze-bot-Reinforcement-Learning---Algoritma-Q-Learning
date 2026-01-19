@@ -38,6 +38,7 @@ Dan kami membuat 3 Step Maze/labirin namun kami bikin random pada programnya
 **Hard = 7x7**
 
 <img width="500" height="300" alt="image" src="https://github.com/user-attachments/assets/5fb185cf-266b-49a3-a8ae-d23fcd14b75d" />
+
 ********************************
 Penjelasan Program
 
