@@ -40,7 +40,7 @@ Dan kami membuat 3 Step Maze/labirin namun kami bikin random pada programnya
 <img width="500" height="300" alt="image" src="https://github.com/user-attachments/assets/5fb185cf-266b-49a3-a8ae-d23fcd14b75d" />
 
 ********************************
-Penjelasan Program
+## Penjelasan Program
 
 <img width="250" height="200" alt="image" src="https://github.com/user-attachments/assets/914adf81-ddd2-4f43-8d97-4061b6e9c3a1" />
 
@@ -50,7 +50,7 @@ Library yang digunakan pada pensimulasian Gerak Robot
 
 Program ini adalah pemanggilan dari setiap maze atau labirin dimana terdapat 3 step dari easy, medium dan Hard
 
-<img width="300" height="486" alt="image" src="https://github.com/user-attachments/assets/34551b45-8935-468c-b2b8-51e66f437912" />
+<img width="500" height="486" alt="image" src="https://github.com/user-attachments/assets/34551b45-8935-468c-b2b8-51e66f437912" />
 
 Diatas adalah pemanggilan Reward yang akan didapatkan pada simulasi robot
 * Goals = +100
