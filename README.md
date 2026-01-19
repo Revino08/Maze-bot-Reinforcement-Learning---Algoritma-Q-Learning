@@ -38,8 +38,10 @@ Dan kami membuat 3 Step Maze/labirin namun kami bikin random pada programnya
 ********************************
 Penjelasan Program 
 <img width="326" height="152" alt="image" src="https://github.com/user-attachments/assets/914adf81-ddd2-4f43-8d97-4061b6e9c3a1" />
+
 Library yang digunakan pada pensimulasian Gerak Robot
 
 <img width="723" height="707" alt="image" src="https://github.com/user-attachments/assets/470f60be-babb-453c-8e55-d03983d2b204" />
+
 Program ini adalah pemanggilan dari setiap maze atau labirin dimana terdapat 3 step dari easy, medium dan Hard
 
