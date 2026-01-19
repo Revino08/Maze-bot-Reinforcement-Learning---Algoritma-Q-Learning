@@ -57,10 +57,10 @@ Diatas adalah pemanggilan Reward yang akan didapatkan pada simulasi robot
 * Bergerak tanpa reward = -1
 * Nabrak dinding/stage = -10
 
-<img width="1309" height="561" alt="image" src="https://github.com/user-attachments/assets/706d8f18-787b-40c7-8f06-57ddcc016351" />
+<img width="1000" height="500" alt="image" src="https://github.com/user-attachments/assets/706d8f18-787b-40c7-8f06-57ddcc016351" />
 
 Program diatas berfungsi untuk mengetahui visualisasi ukuran, warna dan bentuk dari maze atau labirin 
 
-<img width="578" height="441" alt="image" src="https://github.com/user-attachments/assets/dd43c721-1dd6-43fe-9d83-789c7bd0acd9" />
+<img width="500" height="400" alt="image" src="https://github.com/user-attachments/assets/dd43c721-1dd6-43fe-9d83-789c7bd0acd9" />
 
 Diatas ini tahap untuk mensimulasikan dari kesleuruhan program dan menampilkan pergerakan dan visualisasi map.
