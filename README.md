@@ -17,7 +17,7 @@ Action (A)
 contoh: maju, kiri, kanan
 
 Reward (R)
-- nilai umpan balik dari environment
+- nilai hadiah dari environment
 
 Jadi pada tugas ini kami mensimulasikan Reinforcement Learning menggunakan algoritma Q-Learning dimana nanti Robot/bot melatih dan menentukan jalan dari titik Start menuju titik Goal didalam lingkungang Maze atau Labirin.
 Setiap pergerakan robot akan dihitung poinnya.
@@ -27,10 +27,19 @@ Nabrak dinding/stage = -10
 
 Dan kami membuat 3 Step Maze/labirin namun kami bikin random pada programnya
 
-Easy/Simple = 5x5
+**Easy/Simple = 5x5**
 <img width="1919" height="934" alt="image" src="https://github.com/user-attachments/assets/e13f58a8-2f06-4552-840d-94bb4c65089d" />
 
+**Medium = 5x5 (Banyak rintangan labirin)**
+<img width="1919" height="937" alt="image" src="https://github.com/user-attachments/assets/19c0ae67-77be-4002-b97c-5b259c4f8e38" />
 
-Medium = 5x5 (Banyak rintangan labirin)
+**Hard = 7x7**
+<img width="1919" height="940" alt="image" src="https://github.com/user-attachments/assets/5fb185cf-266b-49a3-a8ae-d23fcd14b75d" />
+********************************
+Penjelasan Program 
+<img width="326" height="152" alt="image" src="https://github.com/user-attachments/assets/914adf81-ddd2-4f43-8d97-4061b6e9c3a1" />
+Library yang digunakan pada pensimulasian Gerak Robot
 
-Hard = 7x7
+<img width="723" height="707" alt="image" src="https://github.com/user-attachments/assets/470f60be-babb-453c-8e55-d03983d2b204" />
+Program ini adalah pemanggilan dari setiap maze atau labirin dimana terdapat 3 step dari easy, medium dan Hard
+
